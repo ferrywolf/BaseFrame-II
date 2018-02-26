@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="BaseFrame-Business" />
+        <module name="BaseFrame-Common" />
+        <module name="BaseFrame-Login" />
+        <module name="BaseFrame-Utils" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="BaseFrame-Basic" target="1.5" />
+      <module name="BaseFrame-Business" target="1.5" />
+      <module name="BaseFrame-Common" target="1.5" />
+      <module name="BaseFrame-Login" target="1.5" />
+      <module name="BaseFrame-Utils" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
